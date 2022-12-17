@@ -1,0 +1,74 @@
+1	ABDPR Abdullahpur
+2	ARPRT Airport
+3	ANSAR Ansar Camp
+4	ARMBG Arambagh
+5	ASDGT Asad Gate
+6	AZAMP Azampur
+7	AZMPR Azimpur
+8	BKBZR Bakshi Bazar
+9	BNANI Banani (Kakoly)
+10	BNNBZ Banani Bazar
+11	BNCOL Bangla College
+12	BNMTR Banglamotor
+13	BNBZR Bango Bazar (Phulbaria)
+14	BSHDR Bashundhara
+15	BJSRN Bijoy Sarani
+16	BRDOF Board Office
+17	BDBZR Boardbazar
+18	CNMNT Cantonment
+19	CHBRI Chairmanbari
+20	CNKPL Chankharpul
+21	DKMDR Dhakeshwari Mandir
+22	DHN15 Dhanmondi 15
+23	ELPHN Elephant Road
+24	ETMKN Etimkhana
+25	FKRPL Fakirapul
+26	FRMGT Farmgate
+27	GBTLI Gabtoli
+28	GLSTN Gulistan
+29	GLSN1 Gulshan 1
+30	HBLDG House Building
+31	JGTLA Jigatola
+32	KKRIL Kakrail
+33	KLBGN Kalabagan
+34	KLNPR Kalyanpur
+35	KMLPR Kamalapur
+36	KHLKT Khilkhet
+37	KURIL Kuril
+38	MBSBO Maddhya Basabo
+39	MDBDA Madhya Badda
+40	MLIBG Malibagh
+41	MCHOW Malibagh Chowdhury Para
+42	MEDCL Medical (Dhaka)
+43	MPR01 Mirpur Section 1
+44	MPR10 Mirpur Section 10 (Gol Chokkor)
+45	MPR11 Mirpur Section 11
+46	MP115 Mirpur Section 11.5 (Share Egaro)
+47	MPR12 Mirpur Section 12
+48	MPR02 MirpurNo2
+49	MGBZR Mogh Bazar
+50	MHKLI Mohakhali
+51	MHDPR Mohammadpur Bus Stand
+52	MTIJL Motijheel
+53	MOCHK Mouchak
+54	NTNBZ Natun Bazar
+55	NYBZR Nayabazar
+56	PURBI Purobi Cinema Hall
+57	RSBZR Rai Shaheb Bazar
+58	RJLKH Rajlaksmi
+59	RMPUR Rampura (bazar)
+60	RMBTV Rampura TV Center
+61	SCLAB Science Lab
+62	SHABG Shahbagh
+63	SHZPR Shahzadpur
+64	SHMLY Shamoly
+65	SHNKR Shankar
+66	SONYC Sony Cinema Hall
+67	STFQT Staff Quarter
+68	SKRBD Sukrabad
+69	TCNCL Technical
+70	TONGI Tongi
+71	TCOLL Tongi College
+72	UTBDA Uttar Badda
+73	UTTRA Uttara
+74	WRLGT Wireless Gate
